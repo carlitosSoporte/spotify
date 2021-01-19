@@ -1,6 +1,6 @@
 //CONSUMIENDO SPOTIFY
 //endpoint del API en variable
-let url = "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X/top-tracks?market=US"
+let url = "https://api.spotify.com/v1/artists/5KBPxIED8ejHkvhs4KCzyS/top-tracks?market=US"
 
 //let token = "Bearer BQAgIEY3fH8aww877ktK2hH2S2RVR3xhKP5pNuYNPceyhR2lyPkqEi-SZS4y02mGWCTXZtQxQ3PoYIJ8SYDF2gnmX135tR8PCCs0Nh-InRQwxyL-igyPz13QGMRAvMc0QLFvHaYO9Y5XkiTWqtJ4TKWQ8vsivhU"
 
